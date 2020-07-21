@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you happen to be here and reading this, give a [visit to my site](https://tuanpham303.github.io/). Currently it is under construction but I hope I will find time to finish it soon. Cheer :)
+If you happen to be here and reading this, why not checking out [my site](https://tuanpham303.github.io/)?. Currently it is under construction but I hope I will find time to finish it soon. Cheer :)
 
 <!--
 **TuanPham303/TuanPham303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
