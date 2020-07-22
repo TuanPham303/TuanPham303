@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you happen to be here and reading this, why not checking out [my site](https://tuanpham303.github.io/)?. Currently it is under construction but I hope I will find time to finish it soon. Cheer :)
+Ever wonder why I am having this greeting here? well it was a story of me creating a repo that has the same name as my account and Github was kind enough to tell me that I discovered something new, and there we go
 
 <!--
 **TuanPham303/TuanPham303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
